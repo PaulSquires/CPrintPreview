@@ -1,5 +1,5 @@
 # CPrintPreview
-Print Preview Class for Windows (FreeBASIC programming lanhuage)
+Print Preview Class for Windows (FreeBASIC programming language)
 
 
 Features:
